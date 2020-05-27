@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#60ECEAEA"
+    android:orientation="vertical"
+    android:paddingTop="10dp"><![CDATA[
+    tools:context=".OrganizerAddAdActivity">
+
+    ]]>
+
+    <EditText
+        android:id="@+id/titleEditText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#FFFFFF"
+        android:hint="Title"
+        android:inputType="text"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#FFFFFF"
+        android:hint="Contacts"
+        android:inputType="text"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/descriptionEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_margin="5dp"
+        android:background="#FFFFFF"
+        android:hint="Description"
+        android:inputType="textMultiLine"
+        android:minHeight="250dp"
+        android:textSize="24sp"
+        android:gravity="start"/>
+
+    <Button
+        android:id="@+id/saveAdButton"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:background="#E91E63"
+        android:text="Save Ad"
+        android:textColor="#FFFFFF" />
+
+
+</LinearLayout>

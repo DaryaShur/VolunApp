@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302455533693",
+    "firebase_url": "https://volunapp-26a66.firebaseio.com",
+    "project_id": "volunapp-26a66",
+    "storage_bucket": "volunapp-26a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302455533693:android:44459b221c59b811110114",
+        "android_client_info": {
+          "package_name": "com.dshur.volunapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302455533693-4oa9i5q78o0vjuttj4ar8kvfd8vhe3sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFpJoEde0LLFSpJ1BoZ5Mq5KYNhGmLYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302455533693-4oa9i5q78o0vjuttj4ar8kvfd8vhe3sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
